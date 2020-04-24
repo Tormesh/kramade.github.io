@@ -1,3 +1,3 @@
 # kramade.github.io
 
-This is my first page
+This is Kramade's first page
